@@ -1,0 +1,10 @@
+D:\C# Projects\contactList\contactList\bin\Debug\contactList.exe.config
+D:\C# Projects\contactList\contactList\bin\Debug\contactList.exe
+D:\C# Projects\contactList\contactList\bin\Debug\contactList.pdb
+D:\C# Projects\contactList\contactList\obj\Debug\contactList.csprojAssemblyReference.cache
+D:\C# Projects\contactList\contactList\obj\Debug\contactList.Form1.resources
+D:\C# Projects\contactList\contactList\obj\Debug\contactList.Properties.Resources.resources
+D:\C# Projects\contactList\contactList\obj\Debug\contactList.csproj.GenerateResource.cache
+D:\C# Projects\contactList\contactList\obj\Debug\contactList.exe
+D:\C# Projects\contactList\contactList\obj\Debug\contactList.pdb
+D:\C# Projects\contactList\contactList\obj\Debug\contactList.Form2.resources
